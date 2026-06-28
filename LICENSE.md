@@ -1,4 +1,4 @@
-# 
+# Intelligent WizTree modules complémentaires pour Mac OS | Open Source WizTree modules complémentaires pour PC Windows. Avec système de plugins et surveillance en temps réel — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
